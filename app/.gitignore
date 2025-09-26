@@ -1,0 +1,51 @@
+/build
+/build
+# Android Studio
+.idea/
+.gradle/
+build/
+local.properties
+*.iml
+
+# Android specific files
+*.apk
+*.ap_
+*.dex
+*.class
+*.so
+*.jar
+*.db
+*.sqlite
+
+# Logs
+*.log
+
+# Gradle
+.gradle/
+build/
+
+# User-specific files
+*.swp
+*.swo
+*~.nib
+*.ds_store
+
+# Keystore files
+*.jks
+*.keystore
+
+# Android Studio specific
+.idea/caches/
+.idea/libraries/
+.idea/modules.xml
+.idea/workspace.xml
+.idea/dictionaries/
+
+# Android build cache
+/.externalNativeBuild/
+
+# Google Services
+google-services.json
+
+# Gradle Wrapper
+gradle-wrapper.properties
